@@ -1,19 +1,15 @@
-Système de Gestion de Clients – Java (CRUD)
+Customer Management System – Java (CRUD)
 
-Cette application est un mini-système de gestion de clients développé en Java et fonctionnant dans la console.
-Elle permet de créer, afficher, mettre à jour et supprimer des clients facilement.
+This application is a mini customer management system developed in Java and running in the command line. It allows you to easily create, view, update, and delete customers.
 
+Features
 
+Add a customer
 
-⚙️ Fonctionnalités
+View the complete customer list
 
-Ajouter un client
+Edit a customer using their ID
 
-Consulter la liste complète des clients
+Delete a customer
 
-Modifier un client via son identifiant
-
-Supprimer un client
-
-Interface console simple et intuitive
-# client-management
+Simple and intuitive console interface
